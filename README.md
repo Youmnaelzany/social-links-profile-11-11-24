@@ -16,7 +16,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Youmnaelzany/social-links-profile-11-11-24.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with

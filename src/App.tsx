@@ -23,7 +23,7 @@ const App = () => {
     },
   ]
   return (
-    <main className="flex flex-col bg-[#1F1F1F] sm:p-10 p-6 gap-6  rounded-xl my-[7.75rem] lg:my-[10.88rem]">
+    <main className="flex flex-col bg-[#1F1F1F] sm:p-10 p-6 gap-6 rounded-xl">
       {/* {/* Profile */}
       <div className="flex flex-col items-center justify-center space-y-6 text-center">
         <img src={Avatar} alt="Avatar" className="size-[5.5rem] rounded-full" />
